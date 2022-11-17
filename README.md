@@ -8,12 +8,19 @@
 </a>
 
 ***
-### Spring
-1. [00_JPA란 무엇인가?](/Spring/Spring%20Data%20JPA/00_JPA란%20무엇인가%3F.md)
+## Spring
+### [Spring Data JPA]
+
+- 00_EntityManager와 PersistentContext
+- 01_클래스(객체)와 테이블의 연결 - @Entity, @Table
+- 02_연관관계와 EntityManager를 통한 연관관계 사용
+- 03_연관관계 편의 메서드
+- [04_다양한 양방향 연관관계들](/Spring/Spring%20Data%20JPA/04_다양한%20양방향%20연관관계들.md)
+
 
 
 <br>
 
 ***
-### Design Pattern
-1. [SOLID - SRP](/Design%20Pattern/SOLID%20-%20SRP.md)
+## Design Pattern
+- [SOLID - SRP](/Design%20Pattern/SOLID%20-%20SRP.md)
