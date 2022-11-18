@@ -8,13 +8,13 @@
 </a>
 
 ***
-## Spring
-### [Spring Data JPA]
+### Spring
+#### [Spring Data JPA]
 
 - 00_EntityManager와 PersistentContext
 - 01_클래스(객체)와 테이블의 연결 - @Entity, @Table
 - 02_연관관계와 EntityManager를 통한 연관관계 사용
-- 03_연관관계 편의 메서드
+- [03_연관관계 편의 메서드](/Spring/Spring%20Data%20JPA/03_연관관계%20편의%20메서드.md)
 - [04_다양한 양방향 연관관계들](/Spring/Spring%20Data%20JPA/04_다양한%20양방향%20연관관계들.md)
 
 
@@ -22,5 +22,5 @@
 <br>
 
 ***
-## Design Pattern
+### Design Pattern
 - [SOLID - SRP](/Design%20Pattern/SOLID%20-%20SRP.md)
