@@ -11,7 +11,7 @@
 ### Spring
 #### [Spring Data JPA]
 
-- 00_EntityManager와 PersistentContext
+- [00_EntityManager와 PersistentContext](/Spring/Spring%20Data%20JPA/00_EntityManager와%20PersistentContext.md)
 - 01_클래스(객체)와 테이블의 연결 - @Entity, @Table
 - 02_연관관계와 EntityManager를 통한 연관관계 사용
 - [03_연관관계 편의 메서드](/Spring/Spring%20Data%20JPA/03_연관관계%20편의%20메서드.md)
