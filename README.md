@@ -24,3 +24,4 @@
 ***
 ### Design Pattern
 - [SOLID - SRP](/Design%20Pattern/SOLID%20-%20SRP.md)
+- [Creational Pattern - Factory Method](/Design%20Pattern/Creational%20Pattern%20-%20Factory%20Method.md)
