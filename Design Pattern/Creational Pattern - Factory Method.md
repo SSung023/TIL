@@ -29,6 +29,7 @@ Truck, Ship과 같은 구체적인 클래스에 의존하지 말고 인터페이
 Factory Method Pattern(팩토리 메서드 패턴)은 생성 패턴 중 하나로  
 “객체를 생성할 때 ***어떤 클래스의 인스턴스를 생성할지 서브 클래스에서 결정***”하는 패턴입니다.
 
+![img.png](img.png)
 
 ✅  **Product**
 
@@ -40,9 +41,9 @@ Product 인터페이스는 다른 유형 객체들이 가지는 *공통 인터�
 ✅  **Creator**
 
 Product 객체들을 반환하는 Factory method가 여기에 선언됩니다.
-Factory method가 **반환하는 객체 유형은 Product(공통 인터페이스 유형)**여야 합니다.
+Factory method가 **반환하는 객체 유형은 Product:공통 인터페이스 유형**여야 합니다.
 
-Creator는 ***Abstract class(추상 클래스)***일수도 있고, ***Interface(인터페이스)***일 수도 있습니다.
+Creator는 ***Abstract class:추상 클래스***일수도 있고, ***Interface:인터페이스***일 수도 있습니다.
 
 ConcreateCreator는 Factory method(여기에서는 createProduct)를 override하여 필요한 객체를 반환하도록 합니다.
 
@@ -105,6 +106,8 @@ ConcreateProduct = Truck, Ship
 ConcreteCreator(구체적인 객체를 반환하는 클래스) = RoadLogistics, SeaLogistics
 
 ✅  Client code(Creator 클래스를 사용하는 클래스) = DeliveryService(Impl)
+
+<br>
 
 ### 장단점
 
