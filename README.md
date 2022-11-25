@@ -13,10 +13,11 @@
 
 - [00_EntityManager와 PersistentContext](/Spring/Spring%20Data%20JPA/00_EntityManager와%20PersistentContext.md)
 - [01_클래스(객체)와 테이블의 연결](/Spring/Spring%20Data%20JPA/01_클래스(객체)와%20테이블의%20연결.md)
-- [02_기본키 PK(Primary key) 매핑하기]()
+- [02_기본키 PK(Primary key) 매핑하기](/Spring/Spring%20Data%20JPA/02_기본키%20PK(Primary%20key)%20매핑하기.md)
 - [03_연관관계 편의 메서드](/Spring/Spring%20Data%20JPA/03_연관관계%20편의%20메서드.md)
 - [04_다양한 양방향 연관관계들](/Spring/Spring%20Data%20JPA/04_다양한%20양방향%20연관관계들.md)
 - [05_플러시 flush()란?](/Spring/Spring%20Data%20JPA/05_플러시%20flush()란%3F.md)
+
 
 
 <br>
