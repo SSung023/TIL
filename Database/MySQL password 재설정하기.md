@@ -1,4 +1,4 @@
-## MySQL password 재설정하기
+## MySQL password 재설정하기 (Mac)
 
 #### 1. MySQL 서버 종료
 ```

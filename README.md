@@ -9,6 +9,13 @@
 
 ***
 ### Spring
+
+- [application.yml를 통해 MySql(데이터베이스) 연결하기]()
+- [application.yml 환경 구축하기 (dev, prod, test)]()
+- [swagger를 통한 api document 보기]()
+- [jaxb를 통한 xml ↔️ java 객체 변환]()
+
+
 #### [Spring Data JPA]
 
 - [00_EntityManager와 PersistentContext](/Spring/Spring%20Data%20JPA/00_EntityManager와%20PersistentContext.md)
@@ -18,10 +25,12 @@
 - [04_다양한 양방향 연관관계들](/Spring/Spring%20Data%20JPA/04_다양한%20양방향%20연관관계들.md)
 - [05_플러시 flush()란?](/Spring/Spring%20Data%20JPA/05_플러시%20flush()란%3F.md)
 
+
 ***
 
 ### TDD
 - [클린 코더스 강의: TDD (1)](/TDD/TDD(1).md)
+- [TDD의 중요성 (개인적인 경험)]()
 
 <br>
 
@@ -34,3 +43,13 @@
 ***
 ### Database
 - [MySQL password 재설정하기](/Database/MySQL%20password%20재설정하기.md)
+
+***
+### AWS
+- [mac으로 EC2 인스턴스 생성하기](/AWS/EC2%20인스턴스%20생성하기(mac).md)
+- [AWS EC2 보안 그룹 설정하기(Spring, React, MySql)](/AWS/AWS%20EC2%20보안그룹%20설정하기.md)
+- [AWS EC2 MySql 설치 및 기본 설정]()
+- [AWS nginx를 통해 spring & react 띄우기](/AWS/nginx를%20통해%20프로그램%20띄우기.md)
+- [AWS - Spring 빌드 파일 올리기]()
+- [AWS - Spring nohup을 통한 백그라운드 서버 가동]()
+- [AWS - Git 설치 및 리포지토리 클론](/AWS/Git%20설치%20및%20리포지토리%20클론.md)
