@@ -10,6 +10,8 @@
 ***
 ### Spring
 
+- [Java Spring 프로젝트 빌드하기](/Spring/Spring%20프로젝트%20빌드하기.md)
+- [Gradle이란 무엇인가?](/Spring/Gradle이란%20무엇인가%3F.md)
 - [application.yml를 통해 MySql(데이터베이스) 연결하기]()
 - [application.yml 환경 구축하기 (dev, prod, test)]()
 - [swagger를 통한 api document 보기]()
@@ -50,6 +52,16 @@
 - [AWS EC2 보안 그룹 설정하기(Spring, React, MySql)](/AWS/AWS%20EC2%20보안그룹%20설정하기.md)
 - [AWS EC2 MySql 설치 및 기본 설정]()
 - [AWS nginx를 통해 spring & react 띄우기](/AWS/nginx를%20통해%20프로그램%20띄우기.md)
-- [AWS - Spring 빌드 파일 올리기]()
-- [AWS - Spring nohup을 통한 백그라운드 서버 가동]()
+- [AWS - Spring nohup을 통한 백그라운드 서버 가동](/AWS/nohup을%20통한%20백그라운드%20서버%20가동.md)
 - [AWS - Git 설치 및 리포지토리 클론](/AWS/Git%20설치%20및%20리포지토리%20클론.md)
+
+***
+### 프로젝트 회고록
+
+#### 상명여고를 위한 커뮤니티 SangCom
+- sdfs
+
+<br>
+
+#### 초거대 언어모델 학습용 프롬프트 데이터 셋 구축 ChatPrompt
+- sdfsd
