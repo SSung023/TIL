@@ -1,6 +1,7 @@
 # Today I Learn
 ``` 
-공부한 내용들을 정리해서 기록해요!
+개발 공부를 하면서 배웠던 것들을 기록하는 공간입니다!
+틀린 내용이 있을 수 있으니 참고해주세요~
 ```
 
 <a href="https://m42-orion.tistory.com/" target="_blank">
