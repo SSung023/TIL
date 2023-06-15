@@ -15,6 +15,7 @@
 - [Gradle이란 무엇인가?](/Spring/Gradle이란%20무엇인가%3F.md)
 - [application.yml를 통해 MySql(데이터베이스) 연결하기](/Spring/application.yml을%20통해%20MySql%20연결하기.md)
 - [application.yml 환경 구축하기 (dev, prod, test)](/Spring/application.yml%20개발%20환경%20구축하기.md)
+- [application.yml 파일에서 원하는 값 불러오기]()
 - [swagger를 통한 api document 보기]()
 - [jaxb를 통한 xml ↔️ java 객체 변환]()
 
@@ -31,6 +32,12 @@
 
 #### [Spring Security]
 - [권한과 ]()
+
+
+
+#### [Junit5]
+- [Junit5란?]()
+
 
 
 ***
