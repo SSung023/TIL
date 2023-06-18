@@ -15,7 +15,7 @@
 - [Gradle이란 무엇인가?](/Spring/Gradle이란%20무엇인가%3F.md)
 - [application.yml를 통해 MySql(데이터베이스) 연결하기](/Spring/application.yml을%20통해%20MySql%20연결하기.md)
 - [application.yml 환경 구축하기 (dev, prod, test)](/Spring/application.yml%20개발%20환경%20구축하기.md)
-- [application.yml 파일에서 원하는 값 불러오기]()
+- [application.yml 파일에서 원하는 값 불러오기](/Spring/application.yml에서%20원하는%20값%20불러오기.md)
 - [swagger를 통한 api document 보기]()
 - [jaxb를 통한 xml ↔️ java 객체 변환]()
 
@@ -28,10 +28,10 @@
 - [03_연관관계 편의 메서드](/Spring/Spring%20Data%20JPA/03_연관관계%20편의%20메서드.md)
 - [04_다양한 양방향 연관관계들](/Spring/Spring%20Data%20JPA/04_다양한%20양방향%20연관관계들.md)
 - [05_플러시 flush()란?](/Spring/Spring%20Data%20JPA/05_플러시%20flush()란%3F.md)
-
+- [JPA 리포지토리는 구현체가 없는데 어떻게 작동하는 걸까?]()
 
 #### [Spring Security]
-- [권한과 ]()
+- []()
 
 
 
