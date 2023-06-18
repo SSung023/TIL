@@ -18,6 +18,7 @@
 - [application.yml 파일에서 원하는 값 불러오기](/Spring/application.yml에서%20원하는%20값%20불러오기.md)
 - [swagger를 통한 api document 보기]()
 - [jaxb를 통한 xml ↔️ java 객체 변환]()
+- [로그를 편하게 찍을 수 있는 Slf4j](/Spring/)
 
 
 #### [Spring Data JPA]
@@ -28,7 +29,8 @@
 - [03_연관관계 편의 메서드](/Spring/Spring%20Data%20JPA/03_연관관계%20편의%20메서드.md)
 - [04_다양한 양방향 연관관계들](/Spring/Spring%20Data%20JPA/04_다양한%20양방향%20연관관계들.md)
 - [05_플러시 flush()란?](/Spring/Spring%20Data%20JPA/05_플러시%20flush()란%3F.md)
-- [JPA 리포지토리는 구현체가 없는데 어떻게 작동하는 걸까?]()
+- [JPA 리포지토리는 구현체가 없는데 어떻게 작동하는 걸까?](/Spring/Spring%20Data%20JPA/06_JPA%20Repository는%20구현체가%20없는데%20어떻게%20작동하는%20걸까%3F.md)
+- [쿼리 메서드 기능 - @Query](/Spring/Spring%20Data%20JPA)
 
 #### [Spring Security]
 - []()
