@@ -146,6 +146,9 @@ Stack 영역 안의 changePerson은 기존 객체의 주소 값인 0x0004가 아
 ![img.png](img.png)
 
 
+최종적으로 main 함수의 실행이 모두 끝나게 되면, Stack 영역 내의 changePerson 공간도 사라질 것이다.  
+그렇게 되면 위 사진의 heap 영역의 ***0x000C*** 는 아무 곳에서도 참조를 하지 않기 때문에 Garbage Collector에 의해 제거될 것이다.
+
 
 
 
